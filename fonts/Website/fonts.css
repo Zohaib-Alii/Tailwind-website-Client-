@@ -1,0 +1,80 @@
+/*
+        This font software is the property of Commercial Type.
+
+        You may not modify the font software, use it on another website, or install it on a computer.
+
+        License information is available at http://commercialtype.com/eula
+        For more information please visit Commercial Type at http://commercialtype.com or email us at info[at]commercialtype.com
+
+        Copyright (C) 2021 Schwartzco Inc.
+        License: 2104-FXYVLJ     
+*/
+
+
+@font-face {
+  font-family: 'Graphik Thai Loop Web';
+  src: url('GraphikThaiLoop-Black-Web.woff2') format('woff2'),
+       url('GraphikThaiLoop-Black-Web.woff') format('woff');
+  font-weight:  800;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+.GraphikThaiLoop-Black-Web {
+  font-family: 'Graphik Thai Loop Web';
+  font-weight:  800;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+
+@font-face {
+  font-family: 'Graphik Thai Loop Web';
+  src: url('GraphikThaiLoop-Semibold-Web.woff2') format('woff2'),
+       url('GraphikThaiLoop-Semibold-Web.woff') format('woff');
+  font-weight:  600;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+.GraphikThaiLoop-Semibold-Web {
+  font-family: 'Graphik Thai Loop Web';
+  font-weight:  600;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+
+@font-face {
+  font-family: 'Graphik Thai Loop Web';
+  src: url('GraphikThaiLoop-Regular-Web.woff2') format('woff2'),
+       url('GraphikThaiLoop-Regular-Web.woff') format('woff');
+  font-weight:  400;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+.GraphikThaiLoop-Regular-Web {
+  font-family: 'Graphik Thai Loop Web';
+  font-weight:  400;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+
+@font-face {
+  font-family: 'Graphik Thai Loop Web';
+  src: url('GraphikThaiLoop-Light-Web.woff2') format('woff2'),
+       url('GraphikThaiLoop-Light-Web.woff') format('woff');
+  font-weight:  300;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+.GraphikThaiLoop-Light-Web {
+  font-family: 'Graphik Thai Loop Web';
+  font-weight:  300;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
